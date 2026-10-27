@@ -1,0 +1,1 @@
+"""MeowMemo acoustic inference service."""
